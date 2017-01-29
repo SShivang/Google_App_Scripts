@@ -1,2 +1,2 @@
 # Google_App_Scripts
-Google App Script for NHS Hours Maintenance
+This is a Google App Script that I created to maintain and report the NHS Hours to individual members of my local chapter. This can be easily implemented in any spreadsheet that looks like the sample spreadsheet attached in this repository. The script coalates the hours of memebers and then sends them emails (note that there is a restriction on how many emails can be sent in a day).
