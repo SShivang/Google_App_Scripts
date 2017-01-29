@@ -1,0 +1,2 @@
+Last Name	First Name	Email	Sponsored Hours	Unsponsored Hours	Total Hours	Sponsored Hours Strikes	Total Hours Strikes	HOUR STRIKES
+Tom		Example		example_email@example-email.com	0	0	0	3	3	3
